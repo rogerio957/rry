@@ -1,0 +1,385 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Das Erste DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127959
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZDF HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127961
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTL HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127964
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sat.1 FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127965
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sat.1 HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127966
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ProSieben HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127969
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ProSieben [B] HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127970
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOX FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127971
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", VOXup DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127973
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kabel Eins FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127974
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kabel 1 Classic FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127975
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kabel Eins Classic HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127976
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTL Nitro HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127980
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTLup HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127982
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTL Crime FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127983
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTL Crime HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127984
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RTL Living HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127985
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sat1 Emotion DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127986
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sat1 Gold FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127987
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ProSieben Fun FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127988
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ProSieben Fun HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127989
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ProSieben Fun [B] HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127990
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ProSieben Maxx FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127991
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ProSieben Maxx HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127992
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SRF 1 DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127993
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MDR HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127994
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 3sat HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127996
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NDR HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127997
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HR FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127998
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HR HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/127999
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", RBB Berlin HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128000
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BR HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128001
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SWR HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128003
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WDR HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128004
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Franken Fernsehen FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128005
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", QVC HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128006
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", QVC Style FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128007
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sonnenklar TV FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128008
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DAZN 1 FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128053
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DAZN 1 HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128055
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DAZN 2 FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128057
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DAZN 2 HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128058
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport1 FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128059
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport1 HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128060
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport1+ FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128061
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport1+ HD [B] DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128062
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Magenta Sport 2 [Match Time] FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128065
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Magenta Sport 3 [Match Time] FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128066
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Magenta Sport 5 [Match Time] FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128068
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Magenta Sport 6 [Match Time] FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128069
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Magenta Sport 7 [Match Time] FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128070
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Magenta Sport 10 [Match Time] FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128073
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Magenta Sport 11 [Match Time] FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128074
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Magenta Sport 14 [Match Time] FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128077
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Magenta Sport 17 [Match Time] FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128080
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", FC Bayern TV HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128082
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Eurosport 1 FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128083
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Eurosport 2 FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128084
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport Digital FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128085
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sport Digital HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128086
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Motorvision HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128087
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Cinema Action FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128090
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Cinema Action HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128091
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Cinema Special FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128092
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Cinema Special HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128093
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Cinema Thriller FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128094
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Cinema Thriller HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128095
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Cinema Thriller DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128096
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Cinema Premieren +24 FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128097
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Cinema Premieren +24 HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128098
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Cinema Fun FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128099
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Cinema Fun HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128100
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Cinema Best Of FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128101
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Cinema Best Of HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128102
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Cinema Family FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128103
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Cinema Family HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128104
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Cinema Classics HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128105
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Cinema Classics DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128106
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Cinema Comedy HD VIP DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128107
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Krimi VIP HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128108
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Atlantic FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128109
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Atlantic HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128110
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky 13TH Street FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128111
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky 13TH Street HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128112
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky 13TH Street [B] HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128113
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky One FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128114
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", One HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128115
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ZDF Neo HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128116
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sky Replay FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128117
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Syfy FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128118
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WarnerTV Comedy FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128120
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WarnerTV Comedy HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128121
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Warner Film FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128122
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WarnerTV Serie FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128123
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WarnerTV Serie DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128125
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Universal HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128127
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Channel HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128128
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony AXN HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128130
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Kinowelt FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128131
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Eagle Cinema Premiere FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128133
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Eagle Cinema Horror FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128134
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Eagle Cinema Thriller FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128135
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Eagle Cinema Sci-Fi FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128136
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Eagle Cinema Animation HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128137
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Eagle Cinema Lächeln HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128139
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Eagle Cinema Geschichte HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128140
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Eagle Cinema Romantisch FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128141
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PopCorn Select 1 HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128155
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PopCorn Select 2 FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128156
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PopCorn Select 2 HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128157
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PopCorn Select 3 FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128158
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PopCorn Select 3 HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128159
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PopCorn Select 4 HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128160
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", PopCorn Select 5 HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128161
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HyperCinema Boxset FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128162
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HyperCinema INFO FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128163
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HyperCinema 1 FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128164
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HyperCinema 2 HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128165
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HyperCinema 3 FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128166
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HyperCinema 4 FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128167
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HyperCinema 5 HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128168
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HyperCinema 6 FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128169
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", HyperCinema 8 FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128171
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Comedy Central FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128172
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sixx FHD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128177
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Servus TV HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128178
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bibel TV HD DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128180
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Genius Family DE
+http://dk.tgt6373.online:8080/tv2204/tvlnk2204/128181
+
